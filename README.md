@@ -7,4 +7,4 @@ performance was compared graphically.
 Data extraction and Data visualisation was done using bs4 and matplotlib respectively.
 
 NOTE: Create a table using query:
-      create table student(rno int primary key, name varchar(20), phy int, mat int, che int, total int)
+      create table student(no int primary key, name varchar(20), phy int, che int, mat int, sum int)
